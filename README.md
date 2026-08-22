@@ -60,7 +60,7 @@ goal: Build engaged and fun digital experiences 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
-  <img src="./assets/logoRobloxStudio.png" width="40" height="40" alt="Roblox Studio">
+  <img src="./assets/logoRobloxStudioo.png" width="40" height="40" alt="Roblox Studio">
 </p>
 
 <table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Allppatt&theme=tokyonight" alt="Languages by Repository" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Allppatt&theme=tokyonight" alt="Languages by Commit" width="100%" /> </td> </tr> </table>
