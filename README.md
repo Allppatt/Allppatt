@@ -111,13 +111,9 @@ goal: Build engaged and fun digital experiences 🚀
     <img src="https://img.shields.io/badge/Roblox-0D1117?style=for-the-badge&logo=roblox&logoColor=58A6FF" alt="Roblox Profile" />
   </a>
 
-<a href="https://www.roblox.com/users/1658790507/profile">
-  <img
-    src="./assets/aspiko-labs-logo.svg"
-    alt="Roblox"
-    height="40"
-  />
-</a> 
+  <a href="https://www.roblox.com/communities/33792861/ASPIKO-Labs#!/about">
+    <img src="https://img.shields.io/badge/Aspiko Labs-0D1117?style=for-the-badge&logo=roblox&logoColor=58A6FF" alt="Roblox Profile" />
+  </a>
 
   <a href="https://www.linkedin.com/in/muhammad-alfathdry-r-908845361/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
