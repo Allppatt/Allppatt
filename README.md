@@ -62,92 +62,25 @@ goal: Build engaged and fun digital experiences 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
 </p>
 
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Allppatt&theme=tokyonight" alt="Languages by Repository" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Allppatt&theme=tokyonight" alt="Languages by Commit" width="100%" /> </td> </tr> </table>
+
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Allppatt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allppatt&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-    height="180"
-  />
-</p>
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Allppatt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Allppatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" /> </td> </tr> </table>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Allppatt&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Allppatt&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF"
-    height="180"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allppatt&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Activity" width="100%" /> </p>
 
 ---
 
 # 📦 GitHub Overview
 
-<p align="center">
-
-  <img src="https://img.shields.io/github/repos/Allppatt?style=for-the-badge&label=TOTAL%20REPOS&color=1f6feb&labelColor=0d1117" />
-
-  <img src="https://img.shields.io/github/stars/Allppatt?style=for-the-badge&label=STARS%20RECEIVED&color=58a6ff&labelColor=0d1117" />
-
-  <img src="https://img.shields.io/github/followers/Allppatt?style=for-the-badge&label=FOLLOWERS&color=388bfd&labelColor=0d1117" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-  <a href="https://github.com/Allppatt/PROJECT_1">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Allppatt&repo=PROJECT_1&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-    />
-  </a>
-
-  <a href="https://github.com/Allppatt/PROJECT_2">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Allppatt&repo=PROJECT_2&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Allppatt/PROJECT_3">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Allppatt&repo=PROJECT_3&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-    />
-  </a>
-
-  <a href="https://github.com/Allppatt/PROJECT_4">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Allppatt&repo=PROJECT_4&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-    />
-  </a>
-
-</p>
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Allppatt&theme=tokyonight" alt="GitHub Overview" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allppatt&theme=tokyonight" alt="GitHub Profile Details" width="100%" /> </td> </tr> </table>
 
 ---
 
@@ -166,23 +99,27 @@ goal: Build engaged and fun digital experiences 🚀
 
 <p align="center">
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/allppatt_16">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" />
   </a>
 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/Allppatt">
     <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=58A6FF" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+  <a href="https://www.roblox.com/users/1658790507/profile">
+    <img src="https://img.shields.io/badge/Roblox-0D1117?style=for-the-badge&logo=roblox&logoColor=58A6FF" alt="Roblox Profile" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.roblox.com/communities/33792861/ASPIKO-Labs#!/about">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PASTE_BASE64_KAMU_DI_SINI" />
+  </a>  
+
+  <a href="https://www.linkedin.com/in/muhammad-alfathdry-r-908845361/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
 
-  <a href="https://YOUR_USERNAME.itch.io">
+  <a href="https://Allppatt.itch.io">
     <img src="https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itch.io&logoColor=58A6FF" />
   </a>
 
