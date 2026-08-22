@@ -11,6 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=Allppatt&label=Profile%20Views&color=0969da&style=for-the-badge" alt="Profile Views" />
 </p>
 
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -135,3 +137,31 @@ goal: Build engaged and fun digital experiences 🚀
 <p align="center">
   <i>Building things, learning every day, and turning ideas into reality. 🚀</i>
 </p>
+
+
+
+<table align="center" cellpadding="10" cellspacing="40">
+  <tr>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-3vrZCumz8QAAAAd/roblox-bacon.gif" height="140">
+    </td>
+  </tr>
+</table>
