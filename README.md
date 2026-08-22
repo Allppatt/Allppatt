@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Allppatt">
-    <img src="https://img.shields.io/github/followers/Allppatt?label=Followers&style=for-the-badge&color=0969da&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/followers/Allppatt?style=for-the-badge&label=Followers&labelColor=555555&color=0969da" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Allppatt&label=Profile%20Views&color=0969da&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Allppatt&label=Profile%20Views&color=0969da&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
