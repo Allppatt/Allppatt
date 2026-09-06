@@ -75,12 +75,6 @@ goal: Build engaged and fun digital experiences 🚀
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allppatt&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Activity" width="100%" /> </p>
-
----
-
 # 📦 GitHub Overview
 
 <table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Allppatt&theme=tokyonight" alt="GitHub Overview" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allppatt&theme=tokyonight" alt="GitHub Profile Details" width="100%" /> </td> </tr> </table>
