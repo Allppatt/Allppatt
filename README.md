@@ -40,7 +40,7 @@ goal: Build engaged and fun digital experiences 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stackk
 
 ### Languages
 
