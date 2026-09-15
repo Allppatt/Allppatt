@@ -22,7 +22,7 @@ name: Alfath
 location: Indonesia
 education: Software & Game Development Student
 
-currently_learning
+currently_learnin
   - Luau
   - C#
   - Web Development
