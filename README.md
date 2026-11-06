@@ -34,7 +34,7 @@ interests:
   - Software Engineering
   - UI/UX
   - Open Source
-goal: Build engaged and fun digital experiencee
+goal: Build engaged and fun digital experienceee
 ```
 
 ---
